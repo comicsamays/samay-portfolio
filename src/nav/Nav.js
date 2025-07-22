@@ -52,7 +52,7 @@ const renderNavLink = (to, imgSrc, altText, navClass) => {
     "nav-link"
 
     return (
-        <Link to={to} classNae={linkClass}>
+        <Link to={to} className={linkClass}>
             <img src={imgSrc} alt={altText}/>
             {isCurrent && <h1 className="page-title">{pageTitle}</h1>}
         </Link>

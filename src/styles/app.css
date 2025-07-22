@@ -4,6 +4,7 @@ body{
     font-family: "Russo One", sans-serif;
     color: white;
     -webkit-tap-highlightcolor: transparent;
+    background-color: #333;
 }
 
 :root {
