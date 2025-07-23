@@ -14,7 +14,7 @@
 .avatar.skills {
     height: 190vh;
     bottom: -110vh;
-    left: -15rem;
+    left: -1.5rem;
     transform: translateX(-0%) scaleX(-1);
 }
 
@@ -39,7 +39,7 @@
     }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1400px) {
     .avatar.about {
         z-index: -5;
         height: 95vh;
