@@ -74,4 +74,4 @@ const subheadingsData = {
     
 };
 
-export default subheadingsData
+export default subheadingsData;
