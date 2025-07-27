@@ -65,10 +65,12 @@ const subheadingsData = {
             title: "2019 GCSEs",
             content: (
                 <>
+                <p>
                       Mill Hill School Foundation
                 <ul>
                     <li>10 GCSE's at: A* - B</li>
                 </ul>
+                </p>
                 </>
             ),
         },
