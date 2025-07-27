@@ -45,3 +45,5 @@ const projects = {
         demo: "https://youtube.com",
     },
 };
+
+export default projects
