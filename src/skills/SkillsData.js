@@ -1,7 +1,15 @@
 const skills = {
     1: [ 
         {
-            title: "HTML, CSS, JS",
+            title: "HTML",
+            level: 2,
+        },
+        {
+            title: "CSS",
+            level: 3,
+        },
+        {
+            title: "JS",
             level: 4,
         },
 
@@ -17,12 +25,12 @@ const skills = {
     
         {
             title: "Functional",
-            level: 3,
+            level: 4,
         },
 
         {
-            title: "Leetcode",
-            level: 3,
+            title: "AI",
+            level: 5,
         },
     ],
 
