@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/samay-portfolio/static/css/main.d9cd793c.css",
+    "main.js": "/samay-portfolio/static/js/main.dfb7e1bd.js",
+    "static/media/bg-universe.mp4": "/samay-portfolio/static/media/bg-universe.8f0c7b0507588a3d538a.mp4",
+    "static/media/samay-slayer-red.png": "/samay-portfolio/static/media/samay-slayer-red.8e800cdf665940aab036.png",
+    "static/media/fallback-image.png": "/samay-portfolio/static/media/fallback-image.d7075bb6fc934f311561.png",
+    "static/media/ar-image.jpg": "/samay-portfolio/static/media/ar-image.82bfed14ea73590dcf1a.jpg",
+    "static/media/heuristic-img.png": "/samay-portfolio/static/media/heuristic-img.e09759d3ee6e8e5fccb8.png",
+    "static/media/project-1.png": "/samay-portfolio/static/media/project-1.4627f8019adef630c2cc.png",
+    "static/media/diss-pic.png": "/samay-portfolio/static/media/diss-pic.b40b039b5835d4a047b7.png",
+    "index.html": "/samay-portfolio/index.html",
+    "main.d9cd793c.css.map": "/samay-portfolio/static/css/main.d9cd793c.css.map",
+    "main.dfb7e1bd.js.map": "/samay-portfolio/static/js/main.dfb7e1bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cd793c.css",
+    "static/js/main.dfb7e1bd.js"
+  ]
+}
