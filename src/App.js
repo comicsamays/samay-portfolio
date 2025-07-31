@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Nav from "./nav/Nav.js"
 import About from "./about/About"
 import Skills from "./skills/Skills"
@@ -11,15 +11,15 @@ import PlayerStats from "./playerStats/PlayerStats.js";
 
 const App = () => {
   return (
-    <Router> 
+    <Router basename="/samay-portfolio"> 
       <Nav />
       <Background />
       <Routes>
         <Route path="/" element={<About/>}/>
-        <Route path="/samay-portfolio" element={<About/>}/>
         <Route path="/skills" element={<Skills/>}/>
         <Route path="/projects" element={<Projects/>}/>
         <Route path="/contact" element={<Contact/>}/>
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <PlayerStats />
     </Router>
