@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/samay-portfolio/static/css/main.d9cd793c.css",
+    "main.css": "/samay-portfolio/static/css/main.3b1186da.css",
     "main.js": "/samay-portfolio/static/js/main.a9eccab1.js",
     "static/media/bg-universe.mp4": "/samay-portfolio/static/media/bg-universe.8f0c7b0507588a3d538a.mp4",
     "static/media/samay-slayer-red.png": "/samay-portfolio/static/media/samay-slayer-red.8e800cdf665940aab036.png",
@@ -10,11 +10,11 @@
     "static/media/project-1.png": "/samay-portfolio/static/media/project-1.4627f8019adef630c2cc.png",
     "static/media/diss-pic.png": "/samay-portfolio/static/media/diss-pic.b40b039b5835d4a047b7.png",
     "index.html": "/samay-portfolio/index.html",
-    "main.d9cd793c.css.map": "/samay-portfolio/static/css/main.d9cd793c.css.map",
+    "main.3b1186da.css.map": "/samay-portfolio/static/css/main.3b1186da.css.map",
     "main.a9eccab1.js.map": "/samay-portfolio/static/js/main.a9eccab1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9cd793c.css",
+    "static/css/main.3b1186da.css",
     "static/js/main.a9eccab1.js"
   ]
 }
