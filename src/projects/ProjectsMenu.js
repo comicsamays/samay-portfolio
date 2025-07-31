@@ -25,10 +25,10 @@ export default class ProjectsMenu extends Component {
                 <div>{project.description}</div>
                 <div className="link-container">
                     <a href={project.github} target="_blank" rel="noopener noreferrer">
-                        GITHUB
+                        
                     </a>
                     <a href={project.demo} target="_blank" rel="noopener noreferrer">
-                        DEMO
+                        
                     </a>
                 </div>
             </div>
@@ -37,7 +37,7 @@ export default class ProjectsMenu extends Component {
 
     render() {
         const {activeProject} = this.state;
-        const projectItems = ["PROJECT ONE", "PROJECT TWO", "PROJECT THREE"]
+        const projectItems = ["LLM Dissertation", "AR Quantum", "Selection Hyperheuristic", "MORE TO BE ADDED"]
 
         return (
             <div className="project-menu"> 

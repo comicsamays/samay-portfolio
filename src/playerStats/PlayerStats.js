@@ -10,8 +10,7 @@ const PlayerStats = () => {
                 <span id = "playerStats__lines__thin"></span>
             </div>
             <h2>
-                Fullstack Developer
-                Product Manager
+                Computer Scientist
             </h2>
         </div>
     );
